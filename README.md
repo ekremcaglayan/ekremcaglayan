@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Ekrem Çağlayan</h1>
 <div align="center">
 <img src="https://media.giphy.com/media/1vh1PXneQqN1e/giphy.gif" align="center" style="width: 100%" />
 </div>  
