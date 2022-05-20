@@ -50,9 +50,22 @@
 <br/>  
 
 ## <div align="center">Github Stats</div>  
-  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table align="center">
+  <tr>
+    <th>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=ekremcaglayan&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true"
+        alt="ekremcaglayan"
+      />
+    </th>
+    <th>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ekremcaglayan&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+        alt="ekremcaglayan"
+      />
+    </th>
+  </tr>
+</table> 
 <br />
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ekremcaglayan&&style=flat-square" align="center" />
